@@ -1,1 +1,3 @@
-testing a new text
+dddfdf ddf :w
+:q
+

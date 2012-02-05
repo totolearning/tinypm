@@ -1,4 +1,17 @@
+<<<<<<< Updated upstream
 fourth commit - 1
 new branch - 
 make change 2
+<<<<<<< HEAD
 make change 3
+=======
+=======
+new branch
+
+df
+df
+d
+>>>>>>> Stashed changes
+
+--my change 3'
+>>>>>>> change 3'
